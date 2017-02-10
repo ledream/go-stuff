@@ -1,8 +1,10 @@
 package main
 
-import "os"
-import "fmt"
-import "io/ioutil"
+import (
+	"os"
+	"fmt"
+	"io/ioutil"
+)
 
 func checkArguments(arg []string) bool {
 	if len(os.Args) < 2 {

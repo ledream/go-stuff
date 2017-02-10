@@ -1,0 +1,7 @@
+Go is an open source project developed by a team at Google and many contributors from the open source community.
+
+Go is distributed under a BSD-style license.
+
+A low traffic mailing list for important announcements, such as new releases.
+
+We encourage all Go users to subscribe to golang-announce.
